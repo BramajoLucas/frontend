@@ -1,0 +1,13 @@
+.messages-title{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.chat-screen{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
